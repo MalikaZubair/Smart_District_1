@@ -1,0 +1,7 @@
+student_id,name,email,department,semester
+CS001,Ayesha Khan,ayesha@uon.edu.pk,Computer Science,6
+CS002,Bilal Ahmed,bilal@uon.edu.pk,Computer Science,6
+CS003,Hina Raza,hina@uon.edu.pk,Computer Science,4
+SE001,Usman Tariq,usman@uon.edu.pk,Software Engineering,2
+SE002,Sara Malik,sara-at-uon.edu.pk,Software Engineering,2
+XX,Bad Id,bad@uon.edu.pk,Mathematics,3

@@ -1,0 +1,11 @@
+student_id,subject,marks
+CS001,Python,88
+CS001,Databases,76
+CS001,AI,abc
+CS002,Python,45
+CS002,Databases,62
+CS003,Python,91
+CS003,AI,38
+SE001,OOP,55
+SE001,Maths,49
+CS999,Python,70
